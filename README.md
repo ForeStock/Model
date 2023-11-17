@@ -1,2 +1,0 @@
-# Model
-LSTM and Transformer
